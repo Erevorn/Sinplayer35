@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sinplayer35
+- 👋 Hi, I’m @Erevorn
 - 👀 I’m interested in Python, R, HTML, CSS
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on "nothing" yet!
